@@ -1,27 +1,27 @@
 # Amnezia VPN
 ## _The best client for self-hosted VPN_
 
-[![Build Status](https://github.com/amnezia-vpn/amnezia-client/actions/workflows/deploy.yml/badge.svg?branch=dev)](https://github.com/amnezia-vpn/amnezia-client/actions/workflows/deploy.yml?query=branch:dev)
-[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/amnezia-vpn/amnezia-client)
+[![Build Status](https://github.com/libmonsoon-dev/amnezia-client/actions/workflows/deploy.yml/badge.svg?branch=dev)](https://github.com/libmonsoon-dev/amnezia-client/actions/workflows/deploy.yml?query=branch:dev)
+[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/libmonsoon-dev/amnezia-client)
 
 Amnezia is an open-source VPN client, with a key feature that enables you to deploy your own VPN server on your server.
 
-![Image](https://github.com/amnezia-vpn/amnezia-client/blob/dev/metadata/img-readme/uipic4.png)
+![Image](https://github.com/libmonsoon-dev/amnezia-client/blob/dev/metadata/img-readme/uipic4.png)
 
 <br>
 
-<a href="https://github.com/amnezia-vpn/amnezia-client/releases/download/4.7.0.0/AmneziaVPN_4.7.0.0_x64.exe"><img src="https://github.com/amnezia-vpn/amnezia-client/blob/dev/metadata/img-readme/win.png" width="150" style="max-width: 100%;"></a> 
-<a href="https://github.com/amnezia-vpn/amnezia-client/releases/download/4.7.0.0/AmneziaVPN_4.7.0.0.dmg"><img src="https://github.com/amnezia-vpn/amnezia-client/blob/dev/metadata/img-readme/mac.png" width="150" style="max-width: 100%;"></a> 
-<a href="https://github.com/amnezia-vpn/amnezia-client/releases/download/4.7.0.0/AmneziaVPN_Linux_4.7.0.0.tar.zip"><img src="https://github.com/amnezia-vpn/amnezia-client/blob/dev/metadata/img-readme/lin.png" width="150" style="max-width: 100%;"></a>
-<a href="https://github.com/amnezia-vpn/amnezia-client/releases/tag/4.7.0.0"><img src="https://github.com/amnezia-vpn/amnezia-client/blob/dev/metadata/img-readme/andr.png" width="150" style="max-width: 100%;"></a>
+<a href="https://github.com/libmonsoon-dev/amnezia-client/releases/download/4.7.0.0/AmneziaVPN_4.7.0.0_x64.exe"><img src="https://github.com/libmonsoon-dev/amnezia-client/blob/dev/metadata/img-readme/win.png" width="150" style="max-width: 100%;"></a> 
+<a href="https://github.com/libmonsoon-dev/amnezia-client/releases/download/4.7.0.0/AmneziaVPN_4.7.0.0.dmg"><img src="https://github.com/libmonsoon-dev/amnezia-client/blob/dev/metadata/img-readme/mac.png" width="150" style="max-width: 100%;"></a> 
+<a href="https://github.com/libmonsoon-dev/amnezia-client/releases/download/4.7.0.0/AmneziaVPN_Linux_4.7.0.0.tar.zip"><img src="https://github.com/libmonsoon-dev/amnezia-client/blob/dev/metadata/img-readme/lin.png" width="150" style="max-width: 100%;"></a>
+<a href="https://github.com/libmonsoon-dev/amnezia-client/releases/tag/4.7.0.0"><img src="https://github.com/libmonsoon-dev/amnezia-client/blob/dev/metadata/img-readme/andr.png" width="150" style="max-width: 100%;"></a>
 
 <br>
 
-<a href="https://play.google.com/store/search?q=amnezia+vpn&c=apps"><img src="https://github.com/amnezia-vpn/amnezia-client/blob/dev/metadata/img-readme/play.png" width="150" style="max-width: 100%;"></a>
-<a href="https://apps.apple.com/us/app/amneziavpn/id1600529900"><img src="https://github.com/amnezia-vpn/amnezia-client/blob/dev/metadata/img-readme/apl.png" width="150" style="max-width: 100%;"></a>
+<a href="https://play.google.com/store/search?q=amnezia+vpn&c=apps"><img src="https://github.com/libmonsoon-dev/amnezia-client/blob/dev/metadata/img-readme/play.png" width="150" style="max-width: 100%;"></a>
+<a href="https://apps.apple.com/us/app/amneziavpn/id1600529900"><img src="https://github.com/libmonsoon-dev/amnezia-client/blob/dev/metadata/img-readme/apl.png" width="150" style="max-width: 100%;"></a>
 
 
-[All releases](https://github.com/amnezia-vpn/amnezia-client/releases)
+[All releases](https://github.com/libmonsoon-dev/amnezia-client/releases)
 
 <br>
 
@@ -72,7 +72,7 @@ Want to contribute? Welcome!
 
 Download the most actual translation files.
 
-Go to ["Actions" tab](https://github.com/amnezia-vpn/amnezia-client/actions?query=is%3Asuccess+branch%3Adev), click on the first line.
+Go to ["Actions" tab](https://github.com/libmonsoon-dev/amnezia-client/actions?query=is%3Asuccess+branch%3Adev), click on the first line.
 Then scroll down to the "Artifacts" section and download "AmneziaVPN_translations".
 
 Unzip this file.

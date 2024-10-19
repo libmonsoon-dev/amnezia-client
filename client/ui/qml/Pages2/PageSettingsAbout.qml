@@ -147,7 +147,7 @@ PageType {
                 parentFlickable: fl
 
                 clickedFunction: function() {
-                    Qt.openUrlExternally(qsTr("https://github.com/amnezia-vpn/amnezia-client"))
+                    Qt.openUrlExternally(qsTr("https://github.com/libmonsoon-dev/amnezia-client"))
                 }
 
             }
@@ -213,7 +213,7 @@ PageType {
                 parentFlickable: fl
 
                 clickedFunc: function() {
-                    Qt.openUrlExternally("https://github.com/amnezia-vpn/desktop-client/releases/latest")
+                    Qt.openUrlExternally("https://github.com/libmonsoon-dev/amnezia-client/releases/latest")
                 }
             }
 

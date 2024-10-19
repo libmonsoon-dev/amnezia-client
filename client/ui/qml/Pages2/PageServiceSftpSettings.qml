@@ -293,7 +293,7 @@ PageType {
                             Keys.onTabPressed: lastItemTabClicked(focusItem)
 
                             clickedFunc: function() {
-//                                Qt.openUrlExternally("https://github.com/amnezia-vpn/desktop-client/releases/latest")
+//                                Qt.openUrlExternally("https://github.com/libmonsoon-dev/amnezia-client/releases/latest")
                             }
                         }
                     }
